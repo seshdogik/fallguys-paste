@@ -1,0 +1,19 @@
+{
+  "name": "fallguys-clone-browser",
+  "version": "1.0.0",
+  "description": "A simple 3D multiplayer game inspired by Fall Guys, running in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
